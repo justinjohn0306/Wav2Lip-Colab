@@ -1,5 +1,7 @@
 # Wav2Lip-Colab
 
+Original repo: https://github.com/Rudrabha/Wav2Lip
+
 This is a slightly modified version of Wav2Lip colab notebook. Suitable for newbies.
 
 **Official Links**
